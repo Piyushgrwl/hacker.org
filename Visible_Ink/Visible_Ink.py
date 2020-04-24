@@ -12,6 +12,6 @@ sys.path.append('../')
 import hacker_session as hs
 
 id = 10
-answer = "squint"
 
+answer = "squint"
 hs.hackerSession(answer, id)
