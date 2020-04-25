@@ -15,4 +15,5 @@ id = 1
 encrypted_string = "Guvf zrffntr vf rapelcgrq va ebg 13. Lbhe nafjre vf svfupnxr."
 decrypted_string = "This message is encrypted in rot 13. Your answer is fishcake."
 
-hs.hackerSession("fishcake", id)
+answer = "fishcake"
+hs.hackerSession(answer, id)
